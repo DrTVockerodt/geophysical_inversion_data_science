@@ -1,2 +1,4 @@
 # geophysical_inversion_data_science
-A project using a variety of data science methods that perform geophysical inversion - which is the process of taking measured/synthetic geophysics data and determining the subsurface configuration of the Earth.
+A project using a variety of data science methods that perform geophysical inversion - which is the process of taking measured/synthetic geophysics data and determining the subsurface configuration of the Earth. Written in python, this project uses K-means clustering, decision trees/random forests and artificial neural networks (ANNs) in order to determine crustal and lithospheric configurations using three different types gravity anomalies.
+
+This repo contains a detailed report - which has some background information on gravity anomalies, the findings and some speculations of future work for this project. There is also a dataset of Airy, Bouguer and Geoid anomalies (the source of this data is explained in the report). There are 3 Jupyter notebooks that demonstrate the procedures used to generate the results in the report.
